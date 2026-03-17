@@ -1,1 +1,1 @@
-# Matrices
+# Matrix operations
